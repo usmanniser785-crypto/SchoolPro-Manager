@@ -1,0 +1,6 @@
+{
+  "name": "SchoolPro Manager",
+  "description": "Multi-School SaaS Management System with Student, Teacher, Attendance, Fees, Exams, and Role-Based Dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
